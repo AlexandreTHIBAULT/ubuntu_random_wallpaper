@@ -7,4 +7,4 @@ cd $PATH_PARENT
 
 curl ${URL} --output apod_wallpaper.jpg
 
-./set.sh
+./set_apod.sh

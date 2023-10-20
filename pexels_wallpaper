@@ -2,4 +2,4 @@
 PATH_PARENT=$( dirname $(realpath ${BASH_SOURCE[0]}) )
 cd $PATH_PARENT
 
-./download_apod.sh &
+./download_pexels.sh &
