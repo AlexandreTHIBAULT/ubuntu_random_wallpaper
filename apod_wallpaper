@@ -1,0 +1,5 @@
+#!/bin/bash
+PATH_PARENT=$( dirname $(realpath ${BASH_SOURCE[0]}) )
+cd $PATH_PARENT
+
+./download.sh &
